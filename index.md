@@ -1,7 +1,7 @@
-# Your Name
-Gaurav Kumar
+# Gaurav Kumar
 ## Biography
-I am a software engineer with expertise in deep learning...
+I am a researcher with expertise in machine learning, NLP, and computer vision.  
+Currently pursuing M.Tech in Data Science & AI at IIT Madras.  
 
 ## Interests
 - Deep Learning  
